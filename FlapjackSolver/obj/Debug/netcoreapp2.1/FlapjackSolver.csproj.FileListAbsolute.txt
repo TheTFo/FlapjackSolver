@@ -1,0 +1,11 @@
+c:\users\tony\source\repos\FlapjackSolver\FlapjackSolver\bin\Debug\netcoreapp2.1\FlapjackSolver.deps.json
+c:\users\tony\source\repos\FlapjackSolver\FlapjackSolver\bin\Debug\netcoreapp2.1\FlapjackSolver.runtimeconfig.json
+c:\users\tony\source\repos\FlapjackSolver\FlapjackSolver\bin\Debug\netcoreapp2.1\FlapjackSolver.runtimeconfig.dev.json
+c:\users\tony\source\repos\FlapjackSolver\FlapjackSolver\bin\Debug\netcoreapp2.1\FlapjackSolver.dll
+c:\users\tony\source\repos\FlapjackSolver\FlapjackSolver\bin\Debug\netcoreapp2.1\FlapjackSolver.pdb
+c:\users\tony\source\repos\FlapjackSolver\FlapjackSolver\obj\Debug\netcoreapp2.1\FlapjackSolver.csprojAssemblyReference.cache
+c:\users\tony\source\repos\FlapjackSolver\FlapjackSolver\obj\Debug\netcoreapp2.1\FlapjackSolver.csproj.CoreCompileInputs.cache
+c:\users\tony\source\repos\FlapjackSolver\FlapjackSolver\obj\Debug\netcoreapp2.1\FlapjackSolver.AssemblyInfoInputs.cache
+c:\users\tony\source\repos\FlapjackSolver\FlapjackSolver\obj\Debug\netcoreapp2.1\FlapjackSolver.AssemblyInfo.cs
+c:\users\tony\source\repos\FlapjackSolver\FlapjackSolver\obj\Debug\netcoreapp2.1\FlapjackSolver.dll
+c:\users\tony\source\repos\FlapjackSolver\FlapjackSolver\obj\Debug\netcoreapp2.1\FlapjackSolver.pdb
